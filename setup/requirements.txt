@@ -13,3 +13,4 @@ scikit-learn
 ipython
 dlib
 facebook-sdk
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
