@@ -13,3 +13,4 @@ scikit-learn
 ipython
 dlib
 facebook-sdk
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
